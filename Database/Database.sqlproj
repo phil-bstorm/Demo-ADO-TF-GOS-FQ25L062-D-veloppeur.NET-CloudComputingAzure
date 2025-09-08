@@ -71,6 +71,6 @@
     <None Include="Database.publish.xml" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="Data\InializeData.PostDeployment.sql" />
+    <PostDeploy Include="Data\InializeData.PostDeployment.sql" />
   </ItemGroup>
 </Project>
